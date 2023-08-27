@@ -1,7 +1,7 @@
 public class Linearsearch {
     public static void main(String[] args) {
         int arr[]={2,4,6,8,9,10};
-        int target=55;
+        int target=4;
         int result=Linearsearch(arr,target);
 if(target!=-1){
     System.out.println("Element found at index:"+result);
